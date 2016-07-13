@@ -1,4 +1,4 @@
 node {
-     state "build"
+     stage "build"
      echo "hello"
 }
